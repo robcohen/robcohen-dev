@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = "2018-01-14T12:28:00+11:00"
 title = "Setting up a Wireguard Server on Centos 7"
 slug = "Setting up Wireguard on Centos 7"
