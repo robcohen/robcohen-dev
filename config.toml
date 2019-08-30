@@ -15,12 +15,14 @@ languageCode = "en-us"
 
 [params]
   GithubID = "robcohen"
+  GitlabID = "robcohen"
   TwitterID = "rob_cohen"
   LinkedInID = "rcohenme"
   Name = "Rob Cohen"
   HeaderUsername = "rob"
   HeaderHostname = "robcohen.dev"
-  About = "Hack all the things."
-  ProfilePicture = "/profile.jpg"
+  ProfilePicture = "/profile.gif"
   Favicon = "/favicon.ico"
-
+  StackExchangeID = "your_stackexchange_id"
+  StackOverflowID = "your_stackoverflow_id"
+  Keybase = "robertcohen"

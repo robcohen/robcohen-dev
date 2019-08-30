@@ -1,11 +1,10 @@
 +++
 title = "About Me"
 slug = "about"
+date = "2019-08-29"
 +++
 
-Hey there. 
-
-I'm Rob Cohen, a hacker/developer based out of New York City.
+Software Engineer turned Product Manager.
 
 Feel free to reach out and contact me via any of my social media.
 
