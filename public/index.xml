@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ROB COHEN</title>
+    <link>https://www.rcohen.me/index.xml</link>
+    <description>Recent content on ROB COHEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://www.rcohen.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>https://www.rcohen.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rcohen.me/about/</guid>
+      <description>
+
+&lt;p&gt;Hey there.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m Rob Cohen, a hacker/developer based out of New York City.&lt;/p&gt;
+
+&lt;p&gt;Feel free to reach out and contact me via any of my social media.&lt;/p&gt;
+
+&lt;h2 id=&#34;current-efforts&#34;&gt;Current Efforts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://iohk.io&#34;&gt;IOHK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://callidussecurity.com&#34;&gt;Callidus Security&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.omscs.gatech.edu/current-courses&#34;&gt;Georgia Tech OMSCS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.haskell.org/&#34;&gt;Programming in Haskell&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;security-cryptography-math-and-cryptocurrency-conferences&#34;&gt;Security, Cryptography, Math, and Cryptocurrency Conferences&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://robcohen.github.io/awesome-conference-list/&#34;&gt;awesome-conference-list&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are going to any of these, remember to say hello to me!&lt;/p&gt;
+
+&lt;h2 id=&#34;programming-challenges&#34;&gt;Programming Challenges&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://projecteuler.net/profile/robcohen.png&#34; alt=&#34;Project Euler Badge&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
