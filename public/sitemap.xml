@@ -3,122 +3,122 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/creating-a-new-theme/</loc>
+    <loc>http://robcohen.dev/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/migrate-from-jekyll/</loc>
+    <loc>http://robcohen.dev/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://robcohen.dev/categories/</loc>
     <lastmod>2018-01-14T12:28:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/centos/</loc>
+    <loc>http://robcohen.dev/tags/centos/</loc>
     <lastmod>2018-01-14T12:28:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/guides/</loc>
+    <loc>http://robcohen.dev/categories/guides/</loc>
     <lastmod>2018-01-14T12:28:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/how-to/</loc>
+    <loc>http://robcohen.dev/categories/how-to/</loc>
     <lastmod>2018-01-14T12:28:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://robcohen.dev/tags/linux/</loc>
     <lastmod>2018-01-14T12:28:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/linux/</loc>
+    <loc>http://robcohen.dev/posts/</loc>
     <lastmod>2018-01-14T12:28:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://robcohen.dev/</loc>
     <lastmod>2018-01-14T12:28:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/setting-up-wireguard-on-centos-7/</loc>
+    <loc>http://robcohen.dev/posts/setting-up-wireguard-on-centos-7/</loc>
     <lastmod>2018-01-14T12:28:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://robcohen.dev/tags/</loc>
     <lastmod>2018-01-14T12:28:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/vpn/</loc>
+    <loc>http://robcohen.dev/tags/vpn/</loc>
     <lastmod>2018-01-14T12:28:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/wireguard/</loc>
+    <loc>http://robcohen.dev/tags/wireguard/</loc>
     <lastmod>2018-01-14T12:28:00+11:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/goisforlovers/</loc>
+    <loc>http://robcohen.dev/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/development/</loc>
+    <loc>http://robcohen.dev/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/development/</loc>
+    <loc>http://robcohen.dev/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/hugoisforlovers/</loc>
+    <loc>http://robcohen.dev/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/go/</loc>
+    <loc>http://robcohen.dev/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/golang/</loc>
+    <loc>http://robcohen.dev/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/golang/</loc>
+    <loc>http://robcohen.dev/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>http://robcohen.dev/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/templates/</loc>
+    <loc>http://robcohen.dev/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/themes/</loc>
+    <loc>http://robcohen.dev/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://robcohen.dev/about/</loc>
   </url>
   
 </urlset>

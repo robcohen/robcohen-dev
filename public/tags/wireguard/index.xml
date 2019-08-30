@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wireguard on Hugo Website</title>
-    <link>http://example.org/tags/wireguard/</link>
-    <description>Recent content in wireguard on Hugo Website</description>
+    <title>wireguard on Rob Cohen</title>
+    <link>http://robcohen.dev/tags/wireguard/</link>
+    <description>Recent content in wireguard on Rob Cohen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jan 2018 12:28:00 +1100</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/wireguard/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://robcohen.dev/tags/wireguard/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Setting up a Wireguard Server on Centos 7</title>
-      <link>http://example.org/posts/setting-up-wireguard-on-centos-7/</link>
+      <link>http://robcohen.dev/posts/setting-up-wireguard-on-centos-7/</link>
       <pubDate>Sun, 14 Jan 2018 12:28:00 +1100</pubDate>
       
-      <guid>http://example.org/posts/setting-up-wireguard-on-centos-7/</guid>
+      <guid>http://robcohen.dev/posts/setting-up-wireguard-on-centos-7/</guid>
       <description>Overview This guide will describe how to configure Wireguard on a Centos 7 server. The configuration will be targeted towards utilizing Wireguard as a VPN service.
 NOTE: This guide is not yet complete. I am going to add firewall configuration soon.
 Installing Wireguard Up-to-date installation instructions for Wireguard is available on the official WireGuard Installat Instructions Site
