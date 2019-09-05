@@ -3,6 +3,11 @@ title = "Rob Cohen"
 theme = "hugo-theme-nix"
 languageCode = "en-us"
 
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [menu]
   [[menu.header]]
     name = "posts"
@@ -26,3 +31,4 @@ languageCode = "en-us"
   StackExchangeID = "16606382"
   StackOverflowID = "3352160"
   Keybase = "robertcohen"
+
