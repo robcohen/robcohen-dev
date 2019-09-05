@@ -24,3 +24,8 @@ If you are going to any of these, remember to say hello to me!
 Programming Challenges
 ---
 ![Project Euler Badge](https://projecteuler.net/profile/robcohen.png)
+
+Pay me Cryptocurrency!
+---
+<div id="bottle-payment-button" data-corner="25px" data-fill="filled" data-size="large" data-color="#F44336" data-textColor="#FFFFFF" data-service="bottle" data-name="Rob%20Cohen" data-avatar="https://pbs.twimg.com/profile_images/1003807474586210305/dvwCU8in_normal.jpg" data-username="xe62hxPozriMDJmyA7yFjsLGQWt2xSktyJdLCh2Gi5gH" data-text="pay" data-url="https://pay.bottle.li/send/social/" ></div>
+<script src="https://cdn.bottle.li/button/bb.min.js"></script>
