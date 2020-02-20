@@ -1,17 +1,18 @@
 dist: bionic
 sudo: true
+
 install:
   - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.64.1/hugo_0.64.1_Linux-64bit.deb
   - sudo dpkg -i hugo_0.64.1_Linux-64bit.deb
-script:
-  - hugo -v -d ../public
+
+  script:
+  - hugo
   
 deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  keep_history: true
-  local_dir: ../public
+  local_dir: public
   target_branch: master
   repo: robcohen/robcohen.github.io
   on:
