@@ -8,8 +8,6 @@ Software Engineer turned Product Manager.
 
 Feel free to reach out and contact me via any of my social media.
 
-TESTING!
-
 ## Current Efforts
 
 * [IOHK](https://iohk.io)
