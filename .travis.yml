@@ -1,7 +1,8 @@
 os: linux
 language: go
 install:
-  - go get github.com/gohugoio/hugo
+  - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.64.1/hugo_0.64.1_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.64.1_Linux-64bit.deb
 
 script:
   - hugo -d ../public
